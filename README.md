@@ -1,2 +1,2 @@
-# myrepo
-this is my repository
+# Myrepo
+This is my repository
